@@ -1,0 +1,27 @@
+{
+  "name": "retrofit-backend-sample",
+  "version": "1.0.0",
+  "description": "REST API sample for Retrofit in Android course with Node.js without any database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Retrofit",
+    "Backend",
+    "Sample"
+  ],
+  "author": "Andre Insigne",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "crc-32": "^1.2.0",
+    "cuint": "^0.2.2",
+    "express": "^4.13.4",
+    "jsonfile": "^2.2.3",
+    "morgan": "^1.7.0",
+    "node-uuid": "^1.4.7"
+  }
+}

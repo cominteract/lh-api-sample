@@ -1,0 +1,23 @@
+[
+   {
+      "date":"2020-08-12T20:17:46.384Z",
+      "property_id":"12359984",
+      "content":"Reservation at Hotel 123",
+      "last_update":"2020-08-12T21:17:46.384Z",
+      "reservation_type":"check-in"
+   },
+   {
+      "date":"2020-08-12T20:17:46.384Z",
+      "property_id":"14352984",
+      "content":"Reservation at Hotel 456",
+      "last_update":"2020-08-12T21:17:46.384Z",
+      "reservation_type":"check-in"
+   },
+   {
+      "date":"2020-08-12T20:17:46.384Z",
+      "property_id":"16353984",
+      "content":"Reservation at Hotel 789",
+      "last_update":"2020-08-12T21:17:46.384Z",
+      "reservation_type":"check-in"
+   }
+]
