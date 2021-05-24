@@ -4,20 +4,23 @@
       "property_id":"12359984",
       "content":"Reservation at Hotel 123",
       "last_update":"2020-08-12T21:17:46.384Z",
-      "reservation_type":"check-in"
+      "reservation_type":"check-in",
+      "property_url":"https://www.constructionspecifier.com/wp-content/uploads/2017/08/Legrand-Hospitality_Guest-Room_adorne-Furniture-Power-Center.jpg"
    },
    {
       "date":"2020-08-12T20:17:46.384Z",
       "property_id":"14352984",
       "content":"Reservation at Hotel 456",
       "last_update":"2020-08-12T21:17:46.384Z",
-      "reservation_type":"check-in"
+      "reservation_type":"check-in",
+      "property_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaKeCr0d27D6E_K1KB5I6ZoBnB9aeIK6Ujq_NMwL8Ub1jeoPU5VTEeflf1NBUJtFVmRg&usqp=CAU"
    },
    {
       "date":"2020-08-12T20:17:46.384Z",
       "property_id":"16353984",
       "content":"Reservation at Hotel 789",
       "last_update":"2020-08-12T21:17:46.384Z",
-      "reservation_type":"check-in"
+      "reservation_type":"check-in",
+      "property_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7rWpujVxcVsf22Fta_SPpagjFBd-R5DWJw&usqp=CAU"
    }
 ]
