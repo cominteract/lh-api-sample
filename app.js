@@ -85,7 +85,7 @@ app.post(prefix_api + '/reservation', function (req, res) {
     else {
         res.status(400).send({
             type: 'SOME_FIELDS_ARE_EMPTY',
-            description: 'body field or channel field for create new stream was empty :|'
+            description: 'body field or reservation field for create new reservation was empty :|' + req.body
         });
     }
 });
