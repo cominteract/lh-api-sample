@@ -52,7 +52,7 @@ app.post(prefix_api + '/reservation', function (req, res) {
     var reservation_type = req.body.reservation_type;
     var date = req.body.date;
     var property_url = "https://pbs.twimg.com/profile_images/1379253361032142853/oROI8kAP_400x400.jpg"
-    if (propertyId && reservation_type) {
+    if (property_id && reservation_type) {
         //create new stream object
         var newReservation = {property_id : property_id, content : content, last_update : last_update, reservation_type : reservation_type,
             date : date, property_url : property_url};
